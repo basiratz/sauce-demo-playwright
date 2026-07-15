@@ -1,0 +1,8 @@
+Test ID	  Scenario	           Expected
+LGN-001	  Valid login	       Inventory page displayed
+LGN-002	  Invalid username     Error shown
+LGN-003	  Invalid password     Error shown
+LGN-004	  Empty username	   Username required
+LGN-005	  Empty password	   Password required
+LGN-006	  Empty credentials    Username required
+LGN-007	  Locked out user	   Locked out message
